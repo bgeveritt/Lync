@@ -14,3 +14,4 @@ This widget will render a clickable link that will launch a Microsoft Lync conve
 ### Dependencies
 
 * Mendix 5.6.0+
+* Microsoft Lync
