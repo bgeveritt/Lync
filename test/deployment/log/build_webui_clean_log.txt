@@ -1,8 +1,0 @@
-Buildfile: C:\Users\bev\Documents\Widgets\LyncPackage\test\deployment\build_webui.xml
-
-clean:
-
-BUILD SUCCESSFUL
-Total time: 0 seconds
-
-

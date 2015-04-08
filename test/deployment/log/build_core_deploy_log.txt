@@ -1,9 +1,0 @@
-Buildfile: C:\Users\bev\Documents\Widgets\LyncPackage\test\deployment\build_core.xml
-
-deploy:
-    [unzip] Expanding: C:\Program Files (x86)\Mendix\5.6.0\modeler\deployment.mxz into C:\Users\bev\Documents\Widgets\LyncPackage\test\deployment
-
-BUILD SUCCESSFUL
-Total time: 0 seconds
-
-
